@@ -40,12 +40,12 @@ turtle.circle(5)
 turtle.circle(2)
 turtle.circle(12)
 turtle.circle(22)
-turtle.circle()
-
-
-
-
-
+turtle.circle(32)
+turtle.circle(42)
+turtle.circle(52)
+turtle.circle(62)
+turtle.circle(72)
+turtle.circle(82)
 
 
 

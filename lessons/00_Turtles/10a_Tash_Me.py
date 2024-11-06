@@ -6,8 +6,5 @@ Write a program that:
 3) Move the moustache to the right spont on the emoji
 
 Hint: See 08a_More Turtle Programs, section 'Change the Background Image' and
-'Change the Turtle Shape'
-"""
-
-... # Your code here
+'Change the Turtl
 

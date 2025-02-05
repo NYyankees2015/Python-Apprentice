@@ -9,14 +9,14 @@ RUM ME! YOu can run this program by clicking on ▶️ icon ar the top of the ed
 window.
 
 """
-
-import turtle                           
 turtle.setup(width=600, height=600)     
 
 tina = turtle.Turtle()                  
 
 tina.shape('turtle')                   
-tina.speed(10)                           
+tina.speed(10)
+import turtle                           
+                           
 
 tina.pencolor('blue')                   # Set the pen color to blue
 tina.forward(150)                       # Move tina forward by the forward distance

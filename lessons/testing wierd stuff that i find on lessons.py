@@ -6,6 +6,8 @@ tina = turtle.Turtle()
 tina.shape('arrow')                   
 tina.speed(1)    
 
+tina.left(90)
+tina
 
 
 
@@ -995,6 +997,4 @@ tina.speed(1)
 
 
 
-
-
-tina.exitonclick
+turtle.exitonclick()
